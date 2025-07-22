@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Elakkiya-Portfolio/static/css/main.80e919fa.css",
+    "main.js": "/Elakkiya-Portfolio/static/js/main.d7e783c7.js",
+    "static/js/453.ad7768ec.chunk.js": "/Elakkiya-Portfolio/static/js/453.ad7768ec.chunk.js",
+    "index.html": "/Elakkiya-Portfolio/index.html",
+    "main.80e919fa.css.map": "/Elakkiya-Portfolio/static/css/main.80e919fa.css.map",
+    "main.d7e783c7.js.map": "/Elakkiya-Portfolio/static/js/main.d7e783c7.js.map",
+    "453.ad7768ec.chunk.js.map": "/Elakkiya-Portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80e919fa.css",
+    "static/js/main.d7e783c7.js"
+  ]
+}
